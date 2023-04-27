@@ -21,3 +21,4 @@ The website is organized into several sections, including a home section, about 
 I welcome contributions to this repository! If you find a bug or have an idea for a new feature, please submit an issue on GitHub. If you would like to contribute code, please fork the repository and submit a pull request with your changes. Please ensure that your code follows the project's coding standards and is well-documented.
 
 ## Glimpse
+![FitZone](https://user-images.githubusercontent.com/111423734/234862798-0a5f9fa9-eb07-4f51-9b5e-28d964a4c9bf.jpeg)
