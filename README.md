@@ -9,6 +9,8 @@ This is the repository for the source code of FitZone Gym. The website is design
 - [Installation](#installation)
 - [Contributing](#contributing)
 
+## Installation
+The website should now be accessible at 'https://7rajnishsharma.github.io/gym.FitZone/'
 
 ## Usage
 
